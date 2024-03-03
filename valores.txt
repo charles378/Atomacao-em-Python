@@ -1,0 +1,4 @@
+bateria
+cadeira
+camarão
+coleira
