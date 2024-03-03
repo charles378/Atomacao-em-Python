@@ -2,7 +2,7 @@ import pyautogui
 from time import sleep
 
 #1 clicar no na vegador 906,1053
-pyautogui.click(906,1053,duration=2)
+pyautogui.click(952,1052,duration=2)
 #2 colar algo na barra de pesgisa 738,259
 pyautogui.click(738,259)
 pyautogui.write('jaca')
