@@ -18,5 +18,4 @@ with open('valores.txt', 'r') as arquivo:
         pyautogui.click(443,116, duration=2)
         pyautogui.write(valor)
 	#3 pesquisar 189,106
-        pyautogui.click(189,106, duration=2)
-
+        #pyautogui.click(189,106, duration=2)
