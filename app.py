@@ -1,6 +1,8 @@
 import pyautogui
 from time import sleep
 
+pyautogui.alert('Vai comesar a automatisaçao, não mecha no conputado, mas se vocé quere para e so arasta o mause ' 
+                    'para o topo da tela esquerdo')
 #1 clicar no na vegador 906,1053
 pyautogui.click(952,1052,duration=2)
 #2 colar algo na barra de pesgisa 738,259
